@@ -1,4 +1,4 @@
-Implement an HTML document containing an online evaluation form for CE (Continuing Education) courses offered at a college. A screenshot of the scanned paper-based form can be seen on the following page. Make sure to ask the same type of questions even if you edit slightly the wording.
+Implement an HTML document containing an online evaluation form for CE (Continuing Education) courses offered at a college. A screenshot of the scanned paper-based form can be seen on the following page. Make sure to ask the same type of questions even if you edit slightly the wording.<br>
 You can modify the layout of the form.
 
 Create a banner (hint: use the header tag) containing a logo picture for the college and hyperlink it to the college website (home page).
